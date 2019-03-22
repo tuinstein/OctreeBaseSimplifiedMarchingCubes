@@ -10,3 +10,4 @@ Contains Marching Cubes Approch，Simplified Marching Cubes Approch and OSMC App
 3.Triangulation
 
 http://www.cnblogs.com/post/readauth?url=/chnhideyoshi/p/3300751.html
+http://blog.tianya.cn/post-5176451-71858496-1.shtml
